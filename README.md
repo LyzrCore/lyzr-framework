@@ -8,7 +8,7 @@ Regulatory Hurdles: Industries like finance and insurance face strict regulation
 # Our Solution
 Lyzr reimagines the agent architecture by focusing on data processing before and after large language model (LLM) calls. 
 
-![Lyzr Agent Architecture] (https://github.com/LyzrCore/lyzr-framework/blob/25a619b7466304333f49edc07209d132a3135d44/images/lyzr-agent-architecture.png)
+![Lyzr Agent Architecture](https://github.com/LyzrCore/lyzr-framework/blob/25a619b7466304333f49edc07209d132a3135d44/images/lyzr-agent-architecture.png)
 
 This approach ensures:
 Enhanced Reliability: Minimizes hallucinations and inaccuracies.
