@@ -1,19 +1,14 @@
-# lyzr-framework
-Lyzr is a cutting-edge agent framework that natively integrates Safe AI and Responsible AI modules within its core architecture. It's the first and only framework designed from the ground up to tackle the challenges of reliability and ethical compliance in AI agents.
+# Lyzr Agent Framework
+Lyzr is an agent framework that natively integrates Safe AI and Responsible AI modules within its core architecture. It's the first and only framework designed from the ground up to tackle the challenges of reliability and safe AI compliance in AI agents.
+
 # 🚀 Why Lyzr?
-# The Challenge
-Unreliable Agents: Over 95% of AI agent projects remain proof-of-concepts (POCs) due to issues like hallucinations and inaccurate context retrieval.
-Inappropriate Behavior: Agents can exhibit toxicity, bias, and other undesirable behaviors.
-Regulatory Hurdles: Industries like finance and insurance face strict regulations that make deploying unreliable AI solutions risky.
+# The POC Issue
+Over 95% of AI agent projects remain proof-of-concepts (POCs) due to hallucinations, inappropriate agent behavior and inability to handle complex agentic workflows.
+
 # Our Solution
-Lyzr reimagines the agent architecture by focusing on data processing before and after large language model (LLM) calls. 
+Lyzr reimagines the agent architecture by focusing on data processing before and after large language model (LLM) call within the agent architecture. 
 
 ![Lyzr Agent Architecture](https://github.com/LyzrCore/lyzr-framework/blob/25a619b7466304333f49edc07209d132a3135d44/images/lyzr-agent-architecture.png)
-
-This approach ensures:
-Enhanced Reliability: Minimizes hallucinations and inaccuracies.
-Ethical Compliance: Reduces toxicity and bias.
-Regulatory Readiness: Meets strict industry standards for deployment.
 
 # 🧩 Core Agent Architecture
 
