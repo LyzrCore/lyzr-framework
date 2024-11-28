@@ -6,8 +6,10 @@ Unreliable Agents: Over 95% of AI agent projects remain proof-of-concepts (POCs)
 Inappropriate Behavior: Agents can exhibit toxicity, bias, and other undesirable behaviors.
 Regulatory Hurdles: Industries like finance and insurance face strict regulations that make deploying unreliable AI solutions risky.
 # Our Solution
-Lyzr reimagines the agent architecture by focusing on data processing before and after large language model (LLM) calls. This innovative approach ensures:
-![Lyzr Agent Architecture] (https://github.com/LyzrCore/lyzr-framework/blob/main/CleanShot%202024-11-28%20at%2018.35.21%402x.png)
+Lyzr reimagines the agent architecture by focusing on data processing before and after large language model (LLM) calls. 
+![Lyzr Agent Architecture] (images/lyzr-agent-architecture.png)
+
+This approach ensures:
 Enhanced Reliability: Minimizes hallucinations and inaccuracies.
 Ethical Compliance: Reduces toxicity and bias.
 Regulatory Readiness: Meets strict industry standards for deployment.
