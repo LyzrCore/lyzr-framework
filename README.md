@@ -1,3 +1,8 @@
+<div align="center">
+
+![Lyzr Framework](images/Lyzr - The Enterprise Agent Framework.png)
+
+
 # Lyzr Agent Framework
 Lyzr is an agent framework that natively integrates Safe AI and Responsible AI modules within its core architecture. It's the first and only framework designed from the ground up to tackle the challenges of reliability and safe AI compliance in AI agents.
 
