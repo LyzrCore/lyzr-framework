@@ -1,6 +1,6 @@
 <div align="center">
 
-![Lyzr Framework](images/Lyzr - The Enterprise Agent Framework.png)
+![Lyzr Framework](https://github.com/LyzrCore/lyzr-framework/blob/9f8ddb0a44c688577c843b85bc60cf46cdebeadd/images/Lyzr%20-%20The%20Enterprise%20Agent%20Framework.png))
 
 
 # Lyzr Agent Framework
