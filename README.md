@@ -43,7 +43,7 @@ Instant Deployment: Launch agents as co-pilot apps instantly.
 
 # 🎓 Getting Started (Watch Video)
 
-[![Watch the video](https://img.youtube.com/vi/pEvo8vdi8m0/maxresdefault.jpg)](https://youtu.be/pEvo8vdi8m0)
+[![Watch the video](https://github.com/LyzrCore/lyzr-framework/blob/ed2ff82617c9cb57f20557d9348b3d78e489ff44/images/Lyzr%20Agent%20Studio%20-%20How%20to%20Build%20Agents.png)](https://youtu.be/pEvo8vdi8m0)
 
 # ⚖️ Open Core Licensing
 Lyzr is available as an open-core framework.
