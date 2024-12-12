@@ -54,7 +54,7 @@ Mark your calendars! The Lyzr Agent Framework is launching on Github in January 
 
 # 📣 Stay Connected
 Website: www.lyzr.ai  
-Twitter: @lyzr_ai  
+Twitter: https://x.com/LyzrAI  
 LinkedIn: https://www.linkedin.com/company/lyzr-platform/  
 Discord: https://discord.gg/hrYDGAgqYV  
 Help: help@lyzr.ai
