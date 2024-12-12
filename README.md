@@ -2,11 +2,13 @@
 
 ![Lyzr Framework](https://github.com/LyzrCore/lyzr-framework/blob/9f8ddb0a44c688577c843b85bc60cf46cdebeadd/images/Lyzr%20-%20The%20Enterprise%20Agent%20Framework.png)
 
-</div>
-
 <h3>
 
 [Homepage](https://www.lyzr.ai/) | [API Docs](https://agent-prod.studio.lyzr.ai/docs) | [Accenture Award](https://www.lyzr.ai/blog/lyzr-wins-the-accenture-ventures-enterprise-genai-tech-next-challenge-2024/) | [Discord](https://discord.gg/hrYDGAgqYV)
+
+</h3>
+
+</div>
 
 # Lyzr - The Enterprise Agent Framework
 Lyzr is an agent framework that natively integrates Safe AI and Responsible AI modules within its core architecture. It's the first and only framework designed from the ground up to tackle the challenges of reliability and safe AI compliance in AI agents.
