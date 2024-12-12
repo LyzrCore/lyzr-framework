@@ -1,6 +1,6 @@
 <div align="center">
 
-![Lyzr Framework](https://github.com/LyzrCore/lyzr-framework/blob/9f8ddb0a44c688577c843b85bc60cf46cdebeadd/images/Lyzr%20-%20The%20Enterprise%20Agent%20Framework.png)
+![Lyzr Framework](https://github.com/LyzrCore/lyzr-framework/blob/db65e760abf90f3f6f3cc73a99188c706ef6ba4f/images/Lyzr%20-%20Build%20Reliable%20AI%20Agents.png)
 
 <h3>
 
