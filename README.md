@@ -24,17 +24,9 @@ Native Integration: Safe AI and Responsible AI modules are embedded at the core,
 Data Processing Pipeline: Intelligent handling of data inputs and outputs around LLM calls.  
 Modular Design: Easily extendable to incorporate new tools and functionalities.  
 
-# 🔄 HybridFlow Orchestration
+# Introducing Lyzr Agent Studio - studio.lyzr.ai
 
-Lyzr HybridFlow Orchestration allows developers to combine LLM agents with machine learning agents, creating workflows that are both powerful and deterministic.
-
-Reliability: Machine learning agents add predictability to the system.  
-Flexibility: Customize workflows to suit complex enterprise needs.  
-Scalability: Transition smoothly from POCs to full-scale production.
-
-# 🌐 Lyzr Agent Platform - studio.lyzr.ai
-
-Build, Integrate, and Deploy Agents with Ease
+The Lyzr Agent Studio (https://studio.lyzr.ai/) offers an enterprise-level SaaS platform built on the Lyzr Agent Framework. This allows enterprise developers to build agents, test inference, and access agents via APIs. The agent API can be natively integrated into existing software or build multi-agent systems. The Lyzr Agent Studio also provides capabilities to build an RAG engine or integrate an existing vector database of your choice with the agent API. Developers now have access to traceability and observability of their operations via the Lyzr Agent Studio.
 
 ## For Developers
 
