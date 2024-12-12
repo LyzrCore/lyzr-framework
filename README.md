@@ -10,7 +10,7 @@ Lyzr is an agent framework that natively integrates Safe AI and Responsible AI m
 # The POC Issue
 Over 95% of AI agent projects remain proof-of-concepts (POCs) due to hallucinations, inappropriate agent behavior and inability to handle complex agentic workflows.
 
-# Our Solution
+# Lyzr Agent Architecture
 Lyzr reimagines the agent architecture by focusing on data processing before and after large language model (LLM) call within the agent architecture. The first agent framework to natively integrate Safe AI and Responsible AI modules within its core architecture
 
 ![Lyzr Agent Architecture](https://github.com/LyzrCore/lyzr-framework/blob/25a619b7466304333f49edc07209d132a3135d44/images/lyzr-agent-architecture.png)
@@ -19,9 +19,9 @@ Lyzr reimagines the agent architecture by focusing on data processing before and
 
 Key Features
 
-Native Integration: Safe AI and Responsible AI modules are embedded at the core, not just as add-ons.
-Data Processing Pipeline: Intelligent handling of data inputs and outputs around LLM calls.
-Modular Design: Easily extendable to incorporate new tools and functionalities.
+Native Integration: Safe AI and Responsible AI modules are embedded at the core, not just as add-ons.  
+Data Processing Pipeline: Intelligent handling of data inputs and outputs around LLM calls.  
+Modular Design: Easily extendable to incorporate new tools and functionalities.  
 
 # 🔄 HybridFlow Orchestration
 
