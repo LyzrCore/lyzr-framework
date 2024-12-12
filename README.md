@@ -13,7 +13,7 @@ Over 95% of AI agent projects remain proof-of-concepts (POCs) due to hallucinati
 # Lyzr Agent Architecture
 Lyzr reimagines the agent architecture by focusing on data processing before and after large language model (LLM) call within the agent architecture. The first agent framework to natively integrate Safe AI and Responsible AI modules within its core architecture
 
-![Lyzr Agent Architecture](https://github.com/LyzrCore/lyzr-framework/blob/25a619b7466304333f49edc07209d132a3135d44/images/lyzr-agent-architecture.png)
+![Lyzr Agent Architecture](https://github.com/LyzrCore/lyzr-framework/blob/6c863ae3141aa3851427791d6f95780efed041c5/images/Lyzr%20Agent%20Architecture.png)
 
 Native Integration: Safe AI and Responsible AI modules are embedded at the core, not just as add-ons.  
 Data Processing Pipeline: Intelligent handling of data inputs and outputs around LLM calls.  
