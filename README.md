@@ -15,10 +15,6 @@ Lyzr reimagines the agent architecture by focusing on data processing before and
 
 ![Lyzr Agent Architecture](https://github.com/LyzrCore/lyzr-framework/blob/25a619b7466304333f49edc07209d132a3135d44/images/lyzr-agent-architecture.png)
 
-# 🧩 Core Agent Architecture
-
-Key Features
-
 Native Integration: Safe AI and Responsible AI modules are embedded at the core, not just as add-ons.  
 Data Processing Pipeline: Intelligent handling of data inputs and outputs around LLM calls.  
 Modular Design: Easily extendable to incorporate new tools and functionalities.  
@@ -27,43 +23,37 @@ Modular Design: Easily extendable to incorporate new tools and functionalities.
 
 Lyzr HybridFlow Orchestration allows developers to combine LLM agents with machine learning agents, creating workflows that are both powerful and deterministic.
 
-Benefits
-
-Reliability: Machine learning agents add predictability to the system.
-Flexibility: Customize workflows to suit complex enterprise needs.
+Reliability: Machine learning agents add predictability to the system.  
+Flexibility: Customize workflows to suit complex enterprise needs.  
 Scalability: Transition smoothly from POCs to full-scale production.
 
 # 🌐 Lyzr Agent Platform - studio.lyzr.ai
 
 Build, Integrate, and Deploy Agents with Ease
 
-For Developers
+## For Developers
 
-Agent Construction: Use the open-core framework to build sophisticated agents.
-API Integration: Seamlessly integrate agents into your software using API endpoints.
+API Integration: Seamlessly integrate agents into your software using Agent API endpoints.  
 Multi-Agent Systems: Design systems where multiple agents work collaboratively.
 
-For Business Users
+## For Business Users
 
-No-Code Solutions: Create and deploy agents without writing code.
-Instant Deployment: Launch agents as co-pilot apps in minutes.
+No-Code Agent Builder: Create and deploy agents without writing code.  
+Instant Deployment: Launch agents as co-pilot apps instantly.  
 
-# 🎓 Getting Started
+# 🎓 Getting Started (Watch Video)
 
 [![Watch the video](https://img.youtube.com/vi/pEvo8vdi8m0/maxresdefault.jpg)](https://youtu.be/pEvo8vdi8m0)
 
 # ⚖️ Open Core Licensing
-Lyzr is an open-core framework:
+Lyzr is available as an open-core framework.
 
 Open-Core Version: Includes Safe AI and Responsible AI modules powered by prompts.
-Enterprise Version: Offers machine learning-powered modules for enhanced reliability, available through the Lyzr Agent Platform.
+Enterprise Version: Offers ML-powered modules for enhanced reliability, available through the Lyzr Agent Platform.
 
-# 📅 Coming Soon in January
+# 📅 Coming Soon in January 2025
 
-Mark your calendars! The Lyzr Agent Framework is launching in January. Stay tuned for:
-
-Early Access: Sign up for updates and be among the first to try Lyzr.
-Community Events: Join webinars and workshops to learn more.
+Mark your calendars! The Lyzr Agent Framework is launching on Github in January 2025.
 
 # 📣 Stay Connected
 Website: www.lyzr.ai
