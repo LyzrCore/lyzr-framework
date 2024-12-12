@@ -4,6 +4,10 @@
 
 </div>
 
+<h3>
+
+[Homepage](https://www.lyzr.ai/) | [API Docs](https://agent-prod.studio.lyzr.ai/docs) | [Accenture Award](https://www.lyzr.ai/blog/lyzr-wins-the-accenture-ventures-enterprise-genai-tech-next-challenge-2024/) | [Discord](https://discord.gg/hrYDGAgqYV)
+
 # Lyzr Agent Framework
 Lyzr is an agent framework that natively integrates Safe AI and Responsible AI modules within its core architecture. It's the first and only framework designed from the ground up to tackle the challenges of reliability and safe AI compliance in AI agents.
 
@@ -56,8 +60,8 @@ Enterprise Version: Offers ML-powered modules for enhanced reliability, availabl
 Mark your calendars! The Lyzr Agent Framework is launching on Github in January 2025.
 
 # 📣 Stay Connected
-Website: www.lyzr.ai
-Twitter: @lyzr_ai
-LinkedIn: https://www.linkedin.com/company/lyzr-platform/
-Discord: https://discord.gg/hrYDGAgqYV
+Website: www.lyzr.ai  
+Twitter: @lyzr_ai  
+LinkedIn: https://www.linkedin.com/company/lyzr-platform/  
+Discord: https://discord.gg/hrYDGAgqYV  
 Help: help@lyzr.ai
