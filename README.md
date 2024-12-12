@@ -8,11 +8,10 @@
 
 [Homepage](https://www.lyzr.ai/) | [API Docs](https://agent-prod.studio.lyzr.ai/docs) | [Accenture Award](https://www.lyzr.ai/blog/lyzr-wins-the-accenture-ventures-enterprise-genai-tech-next-challenge-2024/) | [Discord](https://discord.gg/hrYDGAgqYV)
 
-# Lyzr Agent Framework
+# Lyzr - The Enterprise Agent Framework
 Lyzr is an agent framework that natively integrates Safe AI and Responsible AI modules within its core architecture. It's the first and only framework designed from the ground up to tackle the challenges of reliability and safe AI compliance in AI agents.
 
-# The POC Issue
-Over 95% of AI agent projects remain proof-of-concepts (POCs) due to hallucinations, inappropriate agent behavior and inability to handle complex agentic workflows.
+Over 95% of AI agent projects remain proof-of-concepts (POCs) due to hallucinations, inappropriate agent behavior, and inability to handle complex agentic workflows. Lyzr agent framework solves this with the Safe AI and Responsible AI modules at the core agent architecture layer andthe  Hybridflow Orchestrator at the agentic automation layer.
 
 # Lyzr Agent Architecture
 Lyzr reimagines the agent architecture by focusing on data processing before and after large language model (LLM) call within the agent architecture. The first agent framework to natively integrate Safe AI and Responsible AI modules within its core architecture
